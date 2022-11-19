@@ -7,6 +7,7 @@ from cryptography.fernet import Fernet
 import base64
 import hashlib
 import os
+import pathlib
 
 class AES_encryption(object):
 
