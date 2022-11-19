@@ -12,3 +12,5 @@ All the comunication between the client and the server is complitly encrypted us
 The Ransomware also uses AES algorithm to encrypt file and directories.
 the folder encryption is done Recursively for each files and folders on the selected directory.
 Type -help to get examples of how to use the external commands.
+
+The program doesn't get blocked or detected by any AV\EDR!
