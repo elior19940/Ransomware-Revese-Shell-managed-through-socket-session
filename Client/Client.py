@@ -1,7 +1,8 @@
 from CryptoLibrary import Encryption, RSA_encryption, AES_encryption
 import socket
-import threading
+import hashlib
 import time
+import subprocess
 
 
 client = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
