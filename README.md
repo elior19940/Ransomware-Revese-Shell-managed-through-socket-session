@@ -16,6 +16,15 @@ Usage
 To successfully run the program, you need to install the required dependencies by running the following command:
 - pip install -r requirements.txt
 
+## Usage
+- To run command just run your command as text
+- To encrypt a file: run some file -p <File Path> -k <Choose an encryption key>, (e.g. run some file -p C:\test.txt -k 1234)
+- To decrypt a file: dec some file -p <File Path> -k <Choose an encryption key>, (e.g. dec some file -p C:\test.txt -k 1234)
+- To encrypt a directory: run some dir -p <File Path> -k <Choose an encryption key>, (e.g. run some dir -p C:\test -k 1234)
+- To decrypt a directory: dec some dir -p <File Path> -k <Choose an encryption key>, (e.g. dec some dir -p C:\test -k 1234)
+
+  
+  
 ### Detection and evasion
 This program is designed to not be detected or blocked by any antivirus or endpoint detection and response (EDR) software. However, as with any potentially malicious software, use caution when deploying and using this program.
 
