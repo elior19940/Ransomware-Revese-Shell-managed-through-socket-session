@@ -1,5 +1,5 @@
 # Ransomware Reverse Shell Socket Session Manager
-#### Warning: This program was developed for educational purposes only. It has the capability to encrypt files and entire directories on a computer. Use caution #### when using this program and do not use it on your own computer.
+#### Warning: This program was developed for educational purposes only. It has the capability to encrypt files and entire directories on a computer. Use caution  when using this program and do not use it on your own computer.
 
 This program is designed to implement a reverse shell and give the attacker the ability to run all CMD and Unix commands, as well as encrypt files and directories using AES encryption. The communication between the client and the server is completely encrypted using RSA encryption to exchange symmetric keys, which are then used to establish an AES-encrypted session.
 
