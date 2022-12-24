@@ -12,7 +12,7 @@ This program is designed to implement a reverse shell and give the attacker the 
 Usage
 - To use the ransomware functionality, you can use the -help command to see examples of how to encrypt files and directories.
 
-### requirements
+### Requirements
 To successfully run the program, you need to install the required dependencies by running the following command:
 - pip install -r requirements.txt
 
